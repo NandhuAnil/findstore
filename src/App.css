@@ -5,6 +5,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: "Poppins", system-ui;
 }
 .findContainer{
   width: 80%;
@@ -27,6 +28,7 @@
   padding: 10px;
   justify-content: center;
   align-items: center;
+  font-family: "Poppins", system-ui;
 }
 .input_box input {
   height: 100%;
@@ -39,12 +41,15 @@
   background-color: white;
   color: #333;
   transition: all 0.2s ease;
+  font-family: "Poppins", system-ui;
 }
 .input_box input:focus {
   border-color: #7d2ae8;
+  font-family: "Poppins", system-ui;
 }
 .input_box .searchBar{
   padding: 20px;
   cursor: pointer;
+  font-family: "Poppins", system-ui;
 }
 
